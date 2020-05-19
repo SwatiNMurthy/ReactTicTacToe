@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 //Test commit
 //Test commit again
+//Test commit 4
 /*class Square extends React.Component {
   /*constructor(props) {
     super(props);
